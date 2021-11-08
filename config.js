@@ -1,9 +1,9 @@
 export const firebaseConfig = {
-    apiKey: "AIzaSyALOb9y9EGnb-6NHBKgm5tHLyzx2Xux0h4",
-    authDomain: "social-media-b49aa.firebaseapp.com",
-    projectId: "social-media-b49aa",
-    storageBucket: "social-media-b49aa.appspot.com",
-    messagingSenderId: "840110494340",
-    appId: "1:840110494340:web:9cee1a25185076a091a8d1",
-    measurementId: "G-67DGVLCTPQ"
+    apiKey: "AIzaSyDE-6-AsctPubF6yv_H0a6AP3rrE_5TBT8",
+  authDomain: "story-telling-app-626ac.firebaseapp.com",
+  databaseURL: "https://story-telling-app-626ac-default-rtdb.firebaseio.com",
+  projectId: "story-telling-app-626ac",
+  storageBucket: "story-telling-app-626ac.appspot.com",
+  messagingSenderId: "140570408219",
+  appId: "1:140570408219:web:405fc7127107a346038fbe"
 };
